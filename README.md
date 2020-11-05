@@ -1,8 +1,12 @@
-### Hi there 👋
+##### Olá, me chamo João Silva 👨🏽‍💻
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoaoNascSilva)](https://github.com/JoaoNascSilva)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)](https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)
+
+
+#### 🚧🏗 Em Construção 🏗🚧
 <!--
 **JoaoNascSilva/JoaoNascSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
