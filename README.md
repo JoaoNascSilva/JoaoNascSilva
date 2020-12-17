@@ -1,10 +1,42 @@
 ##### Olá, me chamo João Silva 👨🏽‍💻
 
+###### Objetivos
+* Melhorar dia a dia minhas habilidades técnicas e Soft Skills
+* Dominar o CleanCode, SOLID e Design Patterns
+* Sempre buscar ser um profissional melhor
+
+###### Tecnologias com que trabalho
+<p align="left">  
+  <code><img src="https://developer.microsoft.com/pt-br/media/dotnet-logo.svg" alt=".Net" width="40" height="40"/></code>&nbsp;  
+  <!--<code><img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="Visual Studio" width="40" height="40"></code>&nbsp;
+  <code><img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="Visual Studio Code" width="40" height="40"></code>&nbsp;
+  -->
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/512px-C_Sharp_logo.svg.png" alt="C#" width="40" height="40"></code>&nbsp;
+  <code><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgres" width="40" height="40"/></code>&nbsp;  
+</p>
+
+###### Tecnologias que estou estudando
+<p>
+  <code> <img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" alt="Dart" width="40" height="40"/></code>&nbsp;
+  <code> <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="Flutter" width="40" height="40"/></code>&nbsp;
+  <code> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="HTML" width="40" height="40"></code>&nbsp;
+</p>
+
+###### Tecnologias que em breve estarei estudando
+<p>
+  <code><img src="https://hexdocs.pm/elixir/assets/logo.png" alt="Elixir" width="40" height="40"></code>&nbsp;
+  <code><img src="https://hexdocs.pm/phoenix/assets/logo.png" alt="Phoenix" width="40" height="40"></code>&nbsp;
+  <code><img src="https://clojure.org/images/clojure-logo-120b.png" alt="Clojure" width="40" height="40"></code>&nbsp;  
+  <code><img src="https://seeklogo.com/images/M/mongodb-logo-427DDF8FDE-seeklogo.com.png" alt="Mongo DB" width="80" height="40"></code>&nbsp;
+  <code><img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="Docker" width="40" height="40"></code>&nbsp;
+</p>
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoaoNascSilva)](https://github.com/JoaoNascSilva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)](https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)
 
-
-#### 🚧🏗 Em Construção 🏗🚧
+##### Meu Status
+![João Silva github stats](https://github-readme-stats.vercel.app/api?username=JoaoNascSilva&show_icons=true&theme=dracula)
 <!--
 **JoaoNascSilva/JoaoNascSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
