@@ -32,9 +32,11 @@
   <code><img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="Docker" width="40" height="40"></code>&nbsp;
 </p>
 
+###### Redes Sociais
+<p>  
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoaoNascSilva)](https://github.com/JoaoNascSilva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)](https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)
-
+</p>
 ##### Meu Status
 ![João Silva github stats](https://github-readme-stats.vercel.app/api?username=JoaoNascSilva&show_icons=true&theme=dracula)
 <!--
