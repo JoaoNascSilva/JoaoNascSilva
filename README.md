@@ -1,9 +1,16 @@
-##### Olá, me chamo João Silva 👨🏽‍💻
+##### Olá, me chamo João Silva e sou desenvolvedor apaixonado pela profissão! 👨:heart:🏽‍💻
 
-###### Objetivos
+###### Objetivos Profissionais
 * Melhorar dia a dia minhas habilidades técnicas e Soft Skills
-* Dominar o CleanCode, SOLID e Design Patterns
-* Sempre buscar ser um profissional melhor
+* Dominar o CleanCode, SOLID, Design Patterns e Clean Architecture
+* Aprofundar os conhecimentos sobre Arquitetura de Software
+
+###### Metas 2021 :rocket: :dart: :heavy_check_mark:
+* :black_square_button: Ler - Clean Code 
+* :black_square_button: Ler - Clean Coder
+* :black_square_button: Ler - Clean Architecture
+* :black_square_button: Iniciar os estudos sobre uma linguagem funcional ( Elixir / Cloujure )
+<br/>
 
 ###### Tecnologias com que trabalho
 <p align="left">  
@@ -15,7 +22,7 @@
   <code><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgres" width="40" height="40"/></code>&nbsp;  
 </p>
 
-###### Tecnologias que estou estudando
+###### Tecnologias que estou estudando atualmente
 <p>
   <code> <img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" alt="Dart" width="40" height="40"/></code>&nbsp;
   <code> <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="Flutter" width="40" height="40"/></code>&nbsp;
@@ -35,10 +42,18 @@
 ###### Redes Sociais
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoaoNascSilva)](https://github.com/JoaoNascSilva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)](https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)
-
+<br />
 ##### Meu Status
 ![João Silva github stats](https://github-readme-stats.vercel.app/api?username=JoaoNascSilva&show_icons=true&theme=dracula)
 
+<br />  
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNascSilva&layout=compact&hide=html&theme=dark" alt="LinguagensMaisUsadas" />
+<div/>
+<br />
+<br />  
+  
+![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JoaoNascSilva&repo=JoaoNascSilva&countColor=%232E8B57)
 <!--
 **JoaoNascSilva/JoaoNascSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
