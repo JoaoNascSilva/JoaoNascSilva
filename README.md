@@ -41,17 +41,13 @@
 ##### Meu Status
 ![João Silva github stats](https://github-readme-stats.vercel.app/api?username=JoaoNascSilva&show_icons=true&theme=dracula)
 
-<br />  
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNascSilva&layout=compact&hide=html&theme=dark" alt="LinguagensMaisUsadas" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNascSilva&layout=compact&hide=html&theme=dracula" alt="LinguagensMaisUsadas" />
 <div/>
-<br />
-<br />  
 
 ###### Redes Sociais
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoaoNascSilva)](https://github.com/JoaoNascSilva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)](https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)
-<br />
 
 ![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JoaoNascSilva&repo=JoaoNascSilva&countColor=%232E8B57)
 <!--
