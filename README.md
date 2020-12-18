@@ -5,13 +5,6 @@
 * Dominar o CleanCode, SOLID, Design Patterns e Clean Architecture
 * Aprofundar os conhecimentos sobre Arquitetura de Software
 
-###### Metas 2021 :rocket: :dart: :heavy_check_mark:
-* :black_square_button: Ler - Clean Code 
-* :black_square_button: Ler - Clean Coder
-* :black_square_button: Ler - Clean Architecture
-* :black_square_button: Iniciar os estudos sobre uma linguagem funcional ( Elixir / Cloujure )
-<br/>
-
 ###### Tecnologias com que trabalho
 <p align="left">  
   <code><img src="https://developer.microsoft.com/pt-br/media/dotnet-logo.svg" alt=".Net" width="40" height="40"/></code>&nbsp;  
@@ -39,10 +32,12 @@
   <code><img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="Docker" width="40" height="40"></code>&nbsp;
 </p>
 
-###### Redes Sociais
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoaoNascSilva)](https://github.com/JoaoNascSilva)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)](https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)
-<br />
+###### Metas 2021 :rocket: :dart: :heavy_check_mark:
+* :black_square_button: Ler - Clean Code 
+* :black_square_button: Ler - Clean Coder
+* :black_square_button: Ler - Clean Architecture
+* :black_square_button: Iniciar os estudos sobre uma linguagem funcional ( Elixir / Cloujure )
+
 ##### Meu Status
 ![João Silva github stats](https://github-readme-stats.vercel.app/api?username=JoaoNascSilva&show_icons=true&theme=dracula)
 
@@ -52,7 +47,12 @@
 <div/>
 <br />
 <br />  
-  
+
+###### Redes Sociais
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoaoNascSilva)](https://github.com/JoaoNascSilva)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)](https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)
+<br />
+
 ![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JoaoNascSilva&repo=JoaoNascSilva&countColor=%232E8B57)
 <!--
 **JoaoNascSilva/JoaoNascSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
