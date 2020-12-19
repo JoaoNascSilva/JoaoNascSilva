@@ -1,4 +1,4 @@
-##### Olá, me chamo João Silva e sou desenvolvedor apaixonado pela profissão! 👨:heart:🏽‍💻
+##### Olá, me chamo João Silva e sou desenvolvedor apaixonado pela profissão! 👨:heart:💻
 
 ###### Objetivos Profissionais
 * Melhorar dia a dia minhas habilidades técnicas e Soft Skills
@@ -36,7 +36,9 @@
 * :black_square_button: Ler - Clean Code 
 * :black_square_button: Ler - Clean Coder
 * :black_square_button: Ler - Clean Architecture
-* :black_square_button: Iniciar os estudos sobre uma linguagem funcional ( Elixir / Cloujure )
+* :black_square_button: Iniciar os estudos sobre o paradigma funcional ( Elixir / Cloujure )
+* :black_square_button: Iniciar os estudos sobre NoSQL ( MongoDB )
+* :black_square_button: Lançar um App em uma loja ( GooglePlay / AppStore )
 
 ##### Meu Status
 ![João Silva github stats](https://github-readme-stats.vercel.app/api?username=JoaoNascSilva&show_icons=true&theme=dracula)
