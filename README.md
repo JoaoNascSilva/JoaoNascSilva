@@ -19,8 +19,10 @@
 <p>
   <code> <img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" alt="Dart" width="40" height="40"/></code>&nbsp;
   <code> <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="Flutter" width="40" height="40"/></code>&nbsp;
-  <code> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="HTML" width="40" height="40"></code>&nbsp;
+  <code> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript" width="40" height="40"/></code>&nbsp; 
+  <!--<code> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></code>&nbsp;-->
+  <!--<code> <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="HTML" width="40" height="40"></code>&nbsp;-->
+  <!--<code> <img src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" alt="CSS" width="40" height="40"/></code>&nbsp;-->
 </p>
 
 ###### Tecnologias que em breve estarei estudando
@@ -36,8 +38,8 @@
 * :black_square_button: Ler - Clean Code 
 * :black_square_button: Ler - Clean Coder
 * :black_square_button: Ler - Clean Architecture
-* :black_square_button: Iniciar os estudos sobre o paradigma funcional ( Elixir / Cloujure )
-* :black_square_button: Iniciar os estudos sobre NoSQL ( MongoDB )
+* :black_square_button: Iniciar os estudos sobre o paradigma funcional ( Elixir / Clojure )
+* :black_square_button: Iniciar os estudos sobre NoSQL
 * :black_square_button: Lançar um App em uma loja ( GooglePlay / AppStore )
 
 ##### Meu Status
@@ -51,7 +53,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoaoNascSilva)](https://github.com/JoaoNascSilva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)](https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)
 
-![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JoaoNascSilva&repo=JoaoNascSilva&countColor=%232E8B57)
+<!--![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JoaoNascSilva&repo=JoaoNascSilva&countColor=%232E8B57)-->
 <!--
 **JoaoNascSilva/JoaoNascSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
