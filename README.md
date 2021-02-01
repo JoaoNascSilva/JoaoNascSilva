@@ -35,7 +35,7 @@
 </p>
 
 ###### Metas 2021 :rocket: :dart: :heavy_check_mark:
-* :black_square_button: Ler - Clean Code 
+* :black_square_button: Ler - Clean Code [ Iniciado ]
 * :black_square_button: Ler - Clean Coder
 * :black_square_button: Ler - Clean Architecture
 * :black_square_button: Iniciar os estudos sobre o paradigma funcional ( Elixir / Clojure )
