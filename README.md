@@ -11,15 +11,16 @@
   <!--<code><img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="Visual Studio" width="40" height="40"></code>&nbsp;
   <code><img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="Visual Studio Code" width="40" height="40"></code>&nbsp;
   -->
-  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/512px-C_Sharp_logo.svg.png" alt="C#" width="40" height="40"></code>&nbsp;
-  <code><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgres" width="40" height="40"/></code>&nbsp;  
+  <code><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" width="40" height="40"></code>&nbsp;
+  <code><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgres" width="40" height="40"/></code>&nbsp;    
 </p>
 
 ###### Tecnologias que estou estudando atualmente
 <p>
   <code> <img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" alt="Dart" width="40" height="40"/></code>&nbsp;
   <code> <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="Flutter" width="40" height="40"/></code>&nbsp;
-  <code> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript" width="40" height="40"/></code>&nbsp; 
+  <code><img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="Docker" width="40" height="40"></code>&nbsp;
+  <!--<code> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript" width="40" height="40"/></code>&nbsp; -->
   <!--<code> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></code>&nbsp;-->
   <!--<code> <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="HTML" width="40" height="40"></code>&nbsp;-->
   <!--<code> <img src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" alt="CSS" width="40" height="40"/></code>&nbsp;-->
