@@ -5,6 +5,10 @@
 * Dominar o CleanCode, SOLID, Design Patterns e Clean Architecture
 * Aprofundar os conhecimentos sobre Arquitetura de Software
 
+###### Redes Sociais
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoaoNascSilva)](https://github.com/JoaoNascSilva)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)](https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)
+
 ###### Tecnologias com que trabalho
 <p align="left">  
   <code><img src="https://developer.microsoft.com/pt-br/media/dotnet-logo.svg" alt=".Net" width="40" height="40"/></code>&nbsp;  
@@ -31,8 +35,7 @@
   <code><img src="https://hexdocs.pm/elixir/assets/logo.png" alt="Elixir" width="40" height="40"></code>&nbsp;
   <code><img src="https://hexdocs.pm/phoenix/assets/logo.png" alt="Phoenix" width="40" height="40"></code>&nbsp;
   <code><img src="https://clojure.org/images/clojure-logo-120b.png" alt="Clojure" width="40" height="40"></code>&nbsp;  
-  <code><img src="https://seeklogo.com/images/M/mongodb-logo-427DDF8FDE-seeklogo.com.png" alt="Mongo DB" width="80" height="40"></code>&nbsp;
-  <code><img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="Docker" width="40" height="40"></code>&nbsp;
+  <code><img src="https://seeklogo.com/images/M/mongodb-logo-427DDF8FDE-seeklogo.com.png" alt="Mongo DB" width="80" height="40"></code>&nbsp;  
 </p>
 
 ###### Metas 2021 :rocket: :dart: :heavy_check_mark:
@@ -49,10 +52,6 @@
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNascSilva&layout=compact&hide=html&theme=dracula" alt="LinguagensMaisUsadas" />
 <div/>
-
-###### Redes Sociais
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoaoNascSilva)](https://github.com/JoaoNascSilva)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)](https://www.linkedin.com/in/jo%C3%A3o-antonio-nascimento-da-silva-120a4517a/)
 
 <!--![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JoaoNascSilva&repo=JoaoNascSilva&countColor=%232E8B57)-->
 <!--
