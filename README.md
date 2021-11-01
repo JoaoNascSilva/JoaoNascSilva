@@ -46,9 +46,10 @@
     <code><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="VisualStudio" width="48", height="40"/></code>&nbsp;
     <code><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VisualStudioCode" width="48", height="40"/></code>&nbsp;
     <code><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/PgAdminLogo.jpg" alt="PGAdmin" width="80", height="40"/></code>&nbsp;
+    <code><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40", height="40"/></code>&nbsp;
   </p>
   
-###### Metas 2021 :rocket: :dart: :heavy_check_mark:
+###### Metas :rocket: :dart: :heavy_check_mark:
 * :black_square_button: Ler - Clean Code [ Iniciado ]
 * :black_square_button: Ler - Clean Coder
 * :black_square_button: Ler - Clean Architecture
