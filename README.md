@@ -69,9 +69,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNascSilva&layout=compact&hide=html&theme=dracula" height="150" alt="LinguagensMaisUsadas" />
 <div/>
   
-<br/>
+
 ![Snake animation](https://github.com/joaonascsilva/joaonascsilva/blob/output/github-contribution-grid-snake.svg)
-  
+
 <!--![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JoaoNascSilva&repo=JoaoNascSilva&countColor=%232E8B57)-->
 <!--
 **JoaoNascSilva/JoaoNascSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
